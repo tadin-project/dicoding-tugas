@@ -1,0 +1,5 @@
+1. ada stateless widget
+2. ada statefull widget
+3. minimal 2 halaman dengan berpindah menggunakan navigation
+4. tidak memiliki overflow / dapat menyesuaikan ukuran layar
+5. bisa responsive
